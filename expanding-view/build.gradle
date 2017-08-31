@@ -10,8 +10,8 @@ ext {
 
     libraryDescription = 'Android library to create expandable list with animation.'
 
-    siteUrl = 'https://github.com/diegodobelo/AndroidExpandingViewLibrary'
-    gitUrl = 'https://github.com/diegodobelo/AndroidExpandingViewLibrary.git'
+    siteUrl = ''
+    gitUrl = ''
 
     libraryVersion = '0.9.4'
 
